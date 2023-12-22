@@ -25,9 +25,9 @@ This is my little corner of the GitHub 🌐 universe, where I share my personal 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="left"> <img align="right" src="https://31.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif" width ="250px">
-&nbsp; <a href="https://twitter.com/TumitD" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>
+&nbsp; <a href="https://twitter.com/TumitD" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a> Twitter
   
-&nbsp; <a href="https://www.linkedin.com/in/tumit-dass/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/tumit-dass/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a> Linkedin
 
-&nbsp; <a href="mailto:tumitdass+github@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="mailto:tumitdass+github@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a> Mail Me
 </p>
