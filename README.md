@@ -2,7 +2,7 @@
 
 ### 🤠 Hey there!
 
-I'm **Tumit**, a curious and enthusiastic 🎓 1st year student at Tezpur University. I'm passionate about 💻 programming and I'm always eager to learn and 🌱 grow.
+Myself **Tumit**, a curious and enthusiastic 🎓 1st year student at Tezpur University. I'm passionate about 💻 programming and I'm always eager to learn and 🌱 grow.
 
 This is my little corner of the GitHub 🌐 universe, where I share my personal projects, learning journey, and contributions to open-source projects. I'm still a 🤔 newbie, but I'm constantly tinkering and 🔎 exploring new things.
 
